@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Filgarm%2Fpybuilder_aws_plugin.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Filgarm%2Fpybuilder_aws_plugin?ref=badge_shield)
+
 .. image:: https://travis-ci.org/ImmobilienScout24/pybuilder_aws_plugin.svg?branch=master
     :target: https://travis-ci.org/ImmobilienScout24/pybuilder_aws_plugin
 
@@ -281,3 +283,7 @@ Unless required by applicable law or agreed to in writing, software distributed
 under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR
 CONDITIONS OF ANY KIND, either express or implied. See the License for the
 specific language governing permissions and limitations under the License.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Filgarm%2Fpybuilder_aws_plugin.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Filgarm%2Fpybuilder_aws_plugin?ref=badge_large)
